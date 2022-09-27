@@ -1,1 +1,3 @@
 In master branch
+
+This line is added in branch 2
