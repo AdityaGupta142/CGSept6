@@ -1,1 +1,4 @@
 In master branch
+
+
+Some text added from master branch.
